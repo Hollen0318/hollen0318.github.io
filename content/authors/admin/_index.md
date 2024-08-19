@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:hollen.zhang@outlook.com'
+    url: "mailto:hollen.zhang@outlook.com"
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/pico7th
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/hollen0318
   - icon: brands/linkedin
-    url: https://www.linkedin.com/hollen-zhang
+    url: https://www.linkedin.com/in/hollen-zhang/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hIlL_E8AAAAJ&hl=en
   - icon: academicons/orcid
@@ -48,19 +48,19 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning for Healthcare
+  - Information Systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Engineering
+    institution: University of Virginia
+    date_start: 2024-06-01
+    date_end: 2029-4-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Supervised by [Prof Amanda Watson](https://engineering.virginia.edu/faculty/amanda-watson).
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Lab'
+      url: 'https://amandawatson.org/people'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
