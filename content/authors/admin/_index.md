@@ -55,7 +55,7 @@ education:
   - area: PhD Computer Engineering
     institution: University of Virginia
     date_start: 2024-06-01
-    date_end: 2029-04-31
+    date_end: 2029-04-30
     summary: |
       Supervised by [Prof Amanda Watson](https://engineering.virginia.edu/faculty/amanda-watson).
     button:
