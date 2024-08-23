@@ -154,33 +154,34 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Algorithms by Princeton University
+    url: https://www.coursera.org/learn/algorithms-part1
+    date: '2022-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms..
+  - title: Linear Algebra by MIT OpenCourseWare
+    url: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: mit
+    icon: mit
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
+  - title: 'Outstanding Information Systems INternship'
+    url: https://www.siaa.org.cn/
+    # certificate_url: https://www.datacamp.com
+    date: '2021-04-21'
+    awarder: SIAA
+    icon: SIAA
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Shenzhen Accessibility Research Association (ARA) was established in 2005. It is one of the earliest professional organizations in China that focuses on accessibility and a 5A social organization in Shenzhen.
+
+      The Accessibility Research Association has always been committed to promoting the development of accessibility in China. It has participated in the drafting of many national standards in the field of accessibility. It has made more people understand and participate in accessibility by holding industry summits, compiling industry white papers and achievement collections, producing professional books and popular science videos, carrying out accessibility advocacy activities, promoting accessibility legislation and Internet product accessibility optimization.
+
+      At present, 28 products of the Accessibility Research Association have passed the MIIT's aging-friendly and accessibility level assessment.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hollen (Haoran) Zhang is a PhD student in Computer Engineering at the University of Virginia. His research focuses on applying machine learning to healthcare, particularly in the detection and monitoring of non-invasive biomarkers. Hollen is also passionate about deep learning, natural language processing, and building information systems. He believes that technology should be applied to real-world problems to create a positive impact and promote social good.
