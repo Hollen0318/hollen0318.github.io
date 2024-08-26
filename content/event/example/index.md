@@ -1,39 +1,39 @@
 ---
-title: Example Talk
+title: NeurIPS DistShift Workshop
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Conference on Neural Information Processing Systems
+event_url: https://sites.google.com/view/distshift2023
 
-location: Hugo Blox Builder HQ
+location: New Orleans Ernest N. Morial Convention Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 900 Convention CEnter Blvd
+  city: New Orleans
+  region: LA
+  postcode: '70130'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 'OpenOOD v1.5: Enhanced Benchmark for Out-of-Distribution Detection.'
+abstract: 'Out-of-Distribution (OOD) detection is critical for the reliable operation of open-world intelligent systems. Despite the emergence of an increasing number of OOD detection methods, the evaluation inconsistencies present challenges for tracking the progress in this field. OpenOOD v1 initiated the unification of the OOD detection evaluation but faced limitations in scalability and scope. In response, this paper presents OpenOOD v1.5, a significant improvement from its predecessor that ensures accurate and standardized evaluation of OOD detection methodologies at large scale. Notably, OpenOOD v1.5 extends its evaluation capabilities to large-scale datasets (ImageNet) and foundation models (e.g., CLIP and DINOv2), and expands its scope to investigate full-spectrum OOD detection which considers semantic and covariate distribution shifts at the same time. This work also contributes in-depth analysis and insights derived from comprehensive experimental results, thereby enriching the knowledge pool of OOD detection methodologies. With these enhancements, OpenOOD v1.5 aims to drive advancements and offer a more robust and comprehensive evaluation benchmark for OOD detection research.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-12-15T13:15:00Z'
+date_end: '2023-12-15T14:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-12-01T00:00:00Z'
 
 authors:
   - admin
 
-tags: []
+tags: ["OOD"]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [Unsplash](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:
