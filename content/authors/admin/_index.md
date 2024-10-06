@@ -61,51 +61,51 @@ education:
     button:
       text: 'Lab'
       url: 'https://amandawatson.org/people'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Computer Science
+    institution: Duke University
+    date_start: 2022-09-01
+    date_end: 2024-05-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.9/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Natural Language Processing, Algorithms
+      - Computer Engineering & Artificial Neural Networks
+      - Probablistic Machine Learning, Computer Vision
+  - area: BSc Information Systems
+    institution: George Washington University
+    date_start: 2020-09-01
+    date_end: 2022-05-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Algorithms and Analysis, Artificial Intelligence
+      - Information Systems Security, Database Design and Application
+      - Mobile App Development, Web Applications Development
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Intern
+    company_name: Duke Health Mazurowski Lab
+    company_url: 'https://sites.duke.edu/mazurowski/research/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-12-01
+    date_end: '2024-05-01'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Segmented over 200 organs in MRI slices using 3D Slicer, including aorta, kidneys, spleen, and hip muscles
+      - Researched machine learning algorithm development for enhanced computer vision in medical imaging applications
+  - position: Accessibility Engineer
+    company_name: Information Accessibility Research Association
+    company_url: 'https://www.siaa.org.cn/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-11-01
+    date_end: 2021-05-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Independently designed and developed a Tritanope Accessibility Algorithm to optimize Web and Application color layout compliant to WCAG 2.0 standards. Facilitated color-blinded individuals to use the applications efficiently
+      - Worked as the principal manager of Accessibility Defects by developing a series of data migration and triage scripts to achieve data integration, conducting Barrier-Free Technology Research by using SQL server and SPSS
+      - Optimized deficiency testing and regression progress efficiency up to 50% employing Python & VBA scripts, saving estimated labor costs $1,000 per month and enhancing both the accuracy of detection and error identification
+      - Awarded Outstanding Interns Award for the year 2020 for significant contributions to data migration and triage
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
