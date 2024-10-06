@@ -128,25 +128,25 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: basketball
+      - name: Swim
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: swimming
+      - name: Cook
         description: ''
         percent: 80
-        icon: camera
+        icon: cook
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
+  - name: Japanese
     percent: 25
 
 # Awards.
